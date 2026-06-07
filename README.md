@@ -1,2 +1,2 @@
-main module: webservice +JPA
-springboot module: springboot +JPA
+1. webservice module: webservice +JPA
+2. springboot module: springboot +JPA
